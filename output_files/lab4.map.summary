@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Mar 07 11:41:10 2017
+Quartus II 64-Bit Version : 15.0.2 Build 153 07/15/2015 SJ Full Version
+Revision Name : lab4
+Top-level Entity Name : sound
+Family : Cyclone IV E
+Total logic elements : 939
+    Total combinational functions : 919
+    Dedicated logic registers : 434
+Total registers : 434
+Total pins : 58
+Total virtual pins : 0
+Total memory bits : 6,144
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
